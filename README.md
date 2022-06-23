@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benci-magpoc&label=Profile%20views&color=0e75b6&style=flat" alt="benci-magpoc" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benci-magpoc" alt="benci-magpoc" /></a> </p>
+
 - 🔭 I’m currently working on [Bug Tracker](http://bug-tracker-benci-magpoc.herokuapp.com/)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
